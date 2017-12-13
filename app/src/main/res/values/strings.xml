@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stock Tracker</string>
+    <string name="stock_id">Stock ID</string>
+    <string name="company">Company Name</string>
+
+</resources>
